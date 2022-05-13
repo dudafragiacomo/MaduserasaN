@@ -1,4 +1,19 @@
 header{
-    height: 40px;
-    background-color: palevioletred;
+    height: 90sspx;
+    background-color: #Da70d6;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    border: solid;
+    
 }
+header > span {
+    font-size: 30px;
+    color: black;
+    font-weight: bold; 
+
+
+    
+
+}
+
